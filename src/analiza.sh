@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Podstawy informatyki — szablon do uzupełnienia.
+#qqqqqqqqqqqq Podstawy informatyki — szablon do uzupełnienia.
 # Uruchomienie: bash src/analiza.sh dane
 # Wynik: po jednej linii dla każdego pliku .log:
 # nazwa_pliku;liczba_ERROR;STATUS

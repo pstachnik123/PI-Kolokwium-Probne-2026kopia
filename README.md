@@ -1,4 +1,4 @@
-# Kolokwium próbne — diagnostyka logów 2026
+# Kolokwium próbne — diagnostyka logów 2026/2027
 
 **Podstawy informatyki — Nanoinżynieria Materiałów, AGH WFiIS.**
 
